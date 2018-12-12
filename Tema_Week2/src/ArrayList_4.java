@@ -17,6 +17,7 @@ public class ArrayList_4 {
 				System.out.println("For the following input [13,6,2,8,2,13] the output should be : TRUE");
 			}else 
 				System.out.println("For the following input  [13,6,2,8,2,13] the output should be : FALSE");
+		//testare
 	}
 	
 }
