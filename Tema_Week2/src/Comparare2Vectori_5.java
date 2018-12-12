@@ -27,6 +27,6 @@ public class Comparare2Vectori_5 {
 	      boolean comparatie4 = Arrays.equals(myArray1, myArray7);
 	      System.out.println("[1,2,3,4] and [1,2,4,3] equal: " + comparatie4);
 	   
-	      System.out.println("-----");
+	      System.out.println("--");
 	   }
 	}	
