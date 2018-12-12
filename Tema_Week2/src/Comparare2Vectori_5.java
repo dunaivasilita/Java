@@ -9,7 +9,7 @@ public class Comparare2Vectori_5 {
 	      Object[] myArray3 = new Object[] { };
 	      Object[] myArray4 = new Object[] { };
 	      Object[] myArray5 = new Object[] { 1, 3,2 };
-	      Object[] myArray6 = new Object[] { 1,3 };
+	      Object[] myArray6 = new Object[] { 1,1 };
 	      Object[] myArray7 = new Object[] { 1,2,4,3 };
 	      
 
@@ -26,5 +26,7 @@ public class Comparare2Vectori_5 {
 	      
 	      boolean comparatie4 = Arrays.equals(myArray1, myArray7);
 	      System.out.println("[1,2,3,4] and [1,2,4,3] equal: " + comparatie4);
+	   
+	      System.out.println("-----");
 	   }
 	}	
